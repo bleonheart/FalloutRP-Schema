@@ -1,0 +1,8 @@
+"Gamemode"
+{
+	"base"			"nutscript"
+	"title"			"Fallout"
+	"author"		"Barata"
+	"menusystem"	"1"
+	"maps"			"^rp_"
+}
