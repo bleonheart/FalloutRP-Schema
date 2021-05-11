@@ -1,5 +1,5 @@
-SCHEMA.name = "Project Sinon"
-SCHEMA.author = "Barata"
+SCHEMA.name = "Fallout New Vegas RP"
+SCHEMA.author = "Barata & Lazarus"
 
 SCHEMA.desc = {"Burn away the flags. Begin again.", 
 "Ring-a-Ding-Ding-Baby!", 
