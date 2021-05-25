@@ -1,4 +1,4 @@
-# Lazarus with Changes
+# Advanced Fallout RP
  Collection: https://steamcommunity.com/sharedfiles/filedetails/?id=2220646019
 
 I've adquired Lazarus about 1-2 years ago and started working on to make my own changes to it as I wanted to make an immersive, yet funny gamemode. For the past year and half or so, I have been working on this schema, but due to life changes, I stopped playing GMOD therefore, I am sharing this.
