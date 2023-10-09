@@ -1,16 +1,17 @@
-# Advanced Fallout RP
-A gamemode for Nutscript 1.0 that aims to mimick the [Fallout](https://en.wikipedia.org/wiki/Fallout_(series)) universe.
-# Disclaimer
+**Advanced Fallout RP**
+*A gamemode for Nutscript 1.0 that aims to mimic the [Fallout](https://en.wikipedia.org/wiki/Fallout_(series)) universe. Usage is heavily advised, as the gamemode is severely outdated.*
 
-I've adquired Lazarus about 1-2 years ago and started working on to make my own changes to it as I wanted to make an immersive, yet funny gamemode. For the past year and half or so, I have been working on this schema, but due to life changes, I stopped playing GMOD therefore, I am sharing this.
+## Disclaimer
 
-The base schema credit goes towards Lazarus' Team, especially Johnny Guitar, but I added credits of my own too as I've added some major stuff to it.
+I acquired Lazarus approximately 1-2 years ago and started working on making my own changes to it, with the goal of creating an immersive yet comical gamemode. Over the past year and a half, I have been actively developing this schema. However, due to significant changes in my life, I have stopped playing GMOD and am now sharing this project.
 
-Some of the core systems, like the markers were removed as it'd force players who don't know code to use the whole fallout new vegas map to play, which for smaller seriousRP community isn't good.
+The base schema credits go to Lazarus' Team, especially Johnny Guitar, but I have also added credits for my own substantial contributions to it.
 
-I hope this helps bring out more fallout server that don't rely on huge pay to win measures just to get barely confortable gameplay wise.
+Some of the core systems, such as markers, were removed intentionally. This was done to avoid forcing players who lack coding knowledge to utilize the entire Fallout: New Vegas map to play, which could be problematic for smaller serious RP communities.
 
-Anyways, good luck, fellow vault dwellers :D
+My hope is that this contribution will encourage the creation of more Fallout-themed servers that don't heavily rely on pay-to-win elements just to provide a somewhat comfortable gameplay experience.
 
-# Collection: 
-https://steamcommunity.com/sharedfiles/filedetails/?id=2220646019
+Regardless, good luck, fellow vault dwellers! 😄
+
+## Collection: 
+[Steam Workshop Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2220646019)
